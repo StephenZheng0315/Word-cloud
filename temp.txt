@@ -1,0 +1,106 @@
+Integration of tillage indices and textural features of Sentinel-2A multispectral images for maize residue cover estimation
+Mapping crop residue cover using Adjust Normalized Difference Residue Index based on Sentinel-2 MSI data
+Evaluation of SWIR Crop Residue Bands for the Landsat Next Mission
+Capability of high-resolution RGB imagery to accurately document residue in row-crop fields
+Factors Affecting the Promotion of Conservation Tillage in Black Soil-The Case of Northeast China
+Deriving corn and soybeans fractions with Land Remote-Sensing Satellite (System, Landsat) imagery by accounting for endmember variability on Google Earth Engine
+Estimation of winter soil cover by vegetation before spring-sown crops for mainland France using multispectral satellite imagery
+Detecting Winter Cover Crops and Crop Residues in the Midwest US Using Machine Learning Classification of Thermal and Optical Imagery
+Improving the monitoring of sugarcane residues in a tropical environment based on laboratory and Sentinel-2 data
+A Comparative Approach of Fuzzy Object Based Image Analysis and Machine Learning Techniques Which Are Applied to Crop Residue Cover Mapping by Using Sentinel-2 Satellite and UAV Imagery
+Adapting yet not adopting? Conservation agriculture in Central Malawi
+Prediction of topsoil properties at field-scale by using C-band SAR data
+Mapping Conservation Management Practices and Outcomes in the Corn Belt Using the Operational Tillage Information System (OpTIS) and the Denitrification-Decomposition (DNDC) Model
+Combining field-level data and remote sensing to understand impact of management practices on producer yields
+Impact of agricultural management practices on soil carbon sequestration and its monitoring through simulation models and remote sensing techniques: A review
+Estimates of Conservation Tillage Practices Using Landsat Archive
+Land Cover Classification using Google Earth Engine and Random Forest Classifier-The Role of Image Composition
+Mapping Tillage Practices Using Spatial Information Techniques
+Sentinel-2 Data for Land Cover/Use Mapping: A Review
+Assessing technological change in agri-food systems of the Global South: A review of adoption-impact studies in wheat
+A Comparison of Estimating Crop Residue Cover from Sentinel-2 Data Using Empirical Regressions and Machine Learning Methods
+Assessing Soil Cover Levels during the Non-Growing Season Using Multitemporal Satellite Imagery and Spectral Unmixing Techniques
+Detection of Crop Seeding and Harvest through Analysis of Time-Series Sentinel-1 Interferometric SAR Data
+Detection of ground straw coverage under conservation tillage based on deep learning
+Estimating adoption and impacts of agricultural management practices in developing countries using satellite data. A scoping review
+THE EFFECT OF CROP ROTATION, TILLAGE, RESIDUE MANAGEMENT AND N FERTILIZATION RATE ON WINTER WHEAT GROWTH AND DEVELOPMENT, EVALUATED WITH AN OPTICAL SENSOR
+Fuzzy Object-Based Image Analysis Methods Using Sentinel-2A and Landsat-8 Data to Map and Characterize Soil Surface Residue
+Assessment of Wheat Straw Cover and Yield Performance in a Rice-Wheat Cropping System by Using Landsat Satellite Data
+Mapping Crop Residue by Combining Landsat and WorldView-3 Satellite Imagery
+Assessing the role of SWIR band in detecting agricultural crop stress: a case study of Raichur district, Karnataka, India
+Persistence in tillage decisions: Aggregate data analysis
+A dynamic soil endmember spectrum selection approach for soil and crop residue linear spectral unmixing analysis
+Estimation of Winter Wheat Residue Coverage Using Optical and SAR Remote Sensing Images
+A mixed-methods approach to determine how conservation management programs and techniques have affected herbicide use and distribution in the environment over time
+Using Hyperspectral Crop Residue Angle Index to Estimate Maize and Winter-Wheat Residue Cover: A Laboratory Study
+Satellite mapping of tillage practices in the North Central US region from 2005 to 2016
+Non-photosynthetic vegetation biomass estimation in semiarid Canadian mixed grasslands using ground hyperspectral data, Landsat 8 OLI, and Sentinel-2 images
+Object-based satellite image analysis applied for crop residue estimating using Landsat OLI imagery
+Mapping Crop Residue and Tillage Intensity Using WorldView-3 Satellite Shortwave Infrared Residue Indices
+Improved crop residue cover estimates obtained by coupling spectral indices for residue and moisture
+Phenotyping Conservation Agriculture Management Effects on Ground and Aerial Remote Sensing Assessments of Maize Hybrids Performance in Zimbabwe
+Remote Sensing and Cropping Practices: A Review
+Comparison of different crop residue indices for estimating crop residue cover using field observation data
+IMPROVED CROP RESIDUE COVER ESTIMATES FROM SATELITE IMAGES BY COUPLING RESIDUE AND WATER SPECTRAL INDICES
+On the Ground or in the Air? A Methodological Experiment on Crop Residue Cover Measurement in Ethiopia
+Determining the number of measurements required to estimate crop residue cover by different methods
+A Global Analysis of Sentinel-2A, Sentinel-2B and Landsat-8 Data Revisit Intervals and Implications for Terrestrial Monitoring
+Estimating crop residue cover using SPOT 5 data
+Multispectral satellite mapping of crop residue cover and tillage intensity in, Iowa
+Spectral Indices to Improve Crop Residue Cover Estimation under Varying Moisture Conditions
+Remote Sensing Estimation of Plant Litter Cover Based on the Spectra of Plant Litter-Soil Mixed Scenes
+QUANTIFICATION AND MAPPING OF SURFACE RESIDUE COVER FOR MAIZE AND SOYBEAN FIELDS IN SOUTH CENTRAL NEBRASKA
+Measuring Intensity of Tillage and Plant Residue Cover Using Remote Sensing
+Estimation of Maize Residue Cover Using Landsat-8 OLI Image Spectral Information and Textural Features
+Beyond conservation agriculture
+Spatial Variability Mapping of Crop Residue Using Hyperion (EO-1) Hyperspectral Data
+Agricultural crop harvest progress monitoring by fully polarimetric synthetic aperture radar imagery
+Hyperspectral image classification for mapping agricultural tillage practices
+Remote Sensing of Ecosystem Health: Opportunities, Challenges, and Future Perspectives
+Remote sensing of crop residue and tillage practices: Present capabilities and future prospects
+Estimation of Leaf Water Content in Winter Wheat Using Grey Relational Analysis-Partial Least Squares Modeling with Hyperspectral Data
+Broad-Scale Monitoring of Tillage Practices Using Sequential Landsat Imagery
+Crop Residue Modeling and Mapping Using Landsat, ALI, Hyperion and Airborne Remote Sensing Data
+Multitemporal remote sensing of crop residue cover and tillage practices: A validation of the minNDTI strategy in the United States
+Sensitivity of C-band SAR polarimetric variables to unvegetated agricultural fields
+Remote sensing of crop residue cover using multi-temporal Landsat imagery
+Effects of crop residue cover resulting from tillage practices on LAI estimation of wheat canopies using remote sensing
+Assessing the Extent of Conservation Tillage In Agricultural Landscapes
+Statistical learning algorithms for identifying contrasting tillage practices with Landsat Thematic Mapper data
+Solutions for a cultivated planet
+Improved classification of conservation tillage adoption using high temporal and synthetic satellite imagery
+Evaluating multispectral remote sensing and spectral unmixing analysis for crop residue mapping
+Artificial Neural Network Approach for Mapping Contrasting Tillage Practices
+ASSESSMENT OF SPECTRAL INDICES FOR CROP RESIDUE COVER ESTIMATION
+An Improved ASTER Index for Remote Sensing of Crop Residue
+Effect of Soil Spectral Properties on Remote Sensing of Crop Residue Cover
+Monitoring of cropland practices for carbon sequestration purposes in north central Montana by Landsat remote sensing
+Estimating Mean Field Residue Cover on Midwestern Soils Using Satellite Imagery
+No-till: The quiet revolution
+Satellite mapping of conservation tillage adoption in the Little River experimental watershed, Georgia
+Ecology - Agriculture at a crossroads
+Mitigating the effects of soil and residue water contents on remotely sensed estimates of crop residue cover
+Remote sensing of contrasting tillage practices in the Texas Panhandle
+Evaluating a crop residue cover index for determining tillage regime in a cotton-corn-peanut rotation
+Remote sensing of crop residue cover and soil tillage intensity
+Estimating and mapping crop residues cover on agricultural lands using hyperspectral and IKONOS data
+Evaluating techniques for determining tillage regime in the southeastern coastal plain and piedmont
+On the blending of the Landsat and MODIS surface reflectance: Predicting daily Landsat surface reflectance
+Predicting tillage practices and agricultural soil disturbance in north central Montana with Landsat imagery
+Investigation on the Potential of Using ASTER Image for Corn Plant Residue Coverage Estimation in Three Indiana Counties
+Evaluation of soil erosion protective cover by crop residues using vegetation indices and spectral mixture analysis of multispectral and hyperspectral data
+Remote sensing the spatial distribution of crop residues
+Evaluation of optical remote sensing models for crop residue cover assessment
+The application of C-band polarimetric SAR for agriculture: a review
+Optimal classification methods for mapping agricultural tillage practices
+Assessing crop residue cover using shortwave infrared reflectance
+Use of multispectral ikonos imagery for discriminating between conventional and conservation agricultural tillage practices
+Perspectives of precision agriculture in conservation agriculture
+The effect of soil and crop residue characteristics on polarimetric radar response
+Defining the sensitivity of multi-frequency and multi-polarized radar backscatter to post-harvest crop residue
+Discriminating crop residues from soil by shortwave infrared reflectance
+Mapping tillage practices with landstat thematic mapper based logistic regression models
+Crop residue estimation using multiband reflectance
+RESIDUE MEASUREMENT TECHNIQUES
+TILLAGE EFFECTS ON THE RADAR BACKSCATTERING COEFFICIENT OF GRAIN STUBBLE FIELDS
+ESTIMATING CONSERVATION TILLAGE RESIDUE USING AERIAL-PHOTOGRAPHY
